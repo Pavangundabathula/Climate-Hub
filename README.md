@@ -1,8 +1,8 @@
-Tech stack used
+Tech stack used -
 React, Tailwind CSS
 
 
-Setup instructions
+Setup instructions -
 Unzip the folder
 Open the terminal
 npm install
